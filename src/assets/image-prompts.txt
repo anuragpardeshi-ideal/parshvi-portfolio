@@ -1,0 +1,18 @@
+Temporary generated images for the home page (built-in image generation tool)
+
+hero-illustration.png
+Use case: stylized-concept
+Asset type: right-side hero artwork for a product designer portfolio website
+Primary request: a polished 3D editorial illustration of a friendly young Indian woman product designer with long dark wavy hair and large round glasses, wearing a white blouse, black trousers and white sneakers, seated in an office chair beside a white desk with a silver laptop. Around her float three white rounded digital product interface cards: one light social impact analytics dashboard, one dark fintech trading chart dashboard, and one dark Web3 token dashboard. Delicate violet connector lines link the cards. Small lavender spheres and a tiny desk plant add detail.
+Scene/backdrop: very pale off-white seamless studio with soft lavender shadows and lots of breathable negative space near the edges.
+Composition/framing: landscape 4:3, subject and desk slightly right of center, product cards spread across the background, full seated figure visible, image intended to crop into a rounded hero rectangle on the right half of a web page.
+Style/medium: refined high-end 3D character and product visualization, crisp readable interface silhouettes, soft materials, not flat vector art.
+Lighting/mood: bright diffused studio light, subtle violet glow, warm and approachable.
+Color palette: ivory white, charcoal, lilac and electric violet accents.
+Constraints: no readable words, no logos, no watermarks, no border, no browser frame.
+
+sroi-garden.png
+Use case: photorealistic-natural.
+Asset type: portfolio case study card thumbnail, 16:10 landscape.
+Primary request: a mother and young child planting a small tree together in a green urban community garden at golden hour, city buildings softly visible behind, warm candid documentary photography, genuine expressions, soil and leaves realistic, natural sunlight.
+Constraints: no text, no logos, no watermark.
